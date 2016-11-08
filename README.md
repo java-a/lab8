@@ -3,6 +3,16 @@
 > 2. 学习编写项目文档
 > 3. 课程及Project答疑
 
+## Lab 7 Code Review
+
+传送门：https://github.com/java-a/lab7/issues/2 。
+
+> 阅读样例代码，完成思考题。
+
+> 提交：将所有回答写在同一个文档中，以学号+姓名命名，如16302010002李云帆.txt、16302010063郭涵青.docx。上传至 FTP WORK_UPLOAD > CodeReview > lab7 目录。
+
+> Deadline: 2016.11.08 23:59:59 (UTC+8)
+
 ## Problem 1: Concept
 
 1. The data types of the Java programming language are divided into two categories:  ( ) and ( ).
